@@ -6,6 +6,12 @@ Check the Wikipedia Page for more: [Game of life](https://en.wikipedia.org/wiki/
 
 This implementation uses an object-oriented approach and with Tkinter and TTK widgets for creating a graphical user interface.
 
+## Tools
+
+![Tkinter](https://img.shields.io/badge/Tkinter-8.6-blue) ![TTK Widgets](https://img.shields.io/badge/TTK%20Widgets-8.6-green) ![Python](https://img.shields.io/badge/Python-3.x-yellow)
+
+These tools were used to implement the Game.
+
 ## How it works
 
 -   The base model class `Game` is implemented by the `GUI` class
